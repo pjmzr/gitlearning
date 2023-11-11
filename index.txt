@@ -6,4 +6,3 @@ test2
 hello this is test2
 
 slm
-bar shoma
