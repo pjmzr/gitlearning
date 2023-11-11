@@ -1,0 +1,5 @@
+#yani git bia harchi file ba pasvand .doc hasto ignore kon
+*.doc
+
+#yani bia kole mohtaivat in poushe temp ro ignore kon
+temp/
